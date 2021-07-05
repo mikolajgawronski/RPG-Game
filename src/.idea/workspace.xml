@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="673a026c-a455-4090-96f8-cf95b37c09a3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Enemies/Enemy.java" beforeDir="false" afterPath="$PROJECT_DIR$/Enemies/Enemy.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1WJAzb3DLNKSvhiY94GgE3xHxur" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/mich/src" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="Projekt-RPG-master" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="673a026c-a455-4090-96f8-cf95b37c09a3" name="Default Changelist" comment="" />
+      <created>1578857587176</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578857587176</updated>
+      <workItem from="1578857590632" duration="8175000" />
+      <workItem from="1578945943168" duration="3467000" />
+      <workItem from="1578949895094" duration="6000" />
+      <workItem from="1578950467105" duration="6786000" />
+      <workItem from="1579198067525" duration="5694000" />
+      <workItem from="1579368402526" duration="7953000" />
+      <workItem from="1579377550994" duration="112000" />
+      <workItem from="1579377906232" duration="431000" />
+      <workItem from="1579384241833" duration="8000" />
+      <workItem from="1579460122252" duration="46000" />
+      <workItem from="1579520926225" duration="624000" />
+      <workItem from="1579531866588" duration="72000" />
+      <workItem from="1579643607957" duration="1176000" />
+    </task>
+    <task id="LOCAL-00001" summary="asdf">
+      <created>1578950498532</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578950498532</updated>
+    </task>
+    <task id="LOCAL-00002" summary="asdf">
+      <created>1578951816831</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578951816831</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit coraz blizej konca">
+      <created>1578956661786</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578956661786</updated>
+    </task>
+    <task id="LOCAL-00004" summary="kuba dopisz słabości">
+      <created>1579204694159</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1579204694159</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Mr. Rewak Joined the Game.">
+      <created>1579375518743</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1579375518744</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Mr. Rewak Joined the Game. 2">
+      <created>1579376347607</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1579376347607</updated>
+    </task>
+    <task id="LOCAL-00007" summary="obi wan">
+      <created>1579377635724</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1579377635724</updated>
+    </task>
+    <task id="LOCAL-00008" summary="obi wan kenobi">
+      <created>1579378244178</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1579378244178</updated>
+    </task>
+    <task id="LOCAL-00009" summary="lekkie zmiany">
+      <created>1579644680458</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1579644680459</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="asdf" />
+    <MESSAGE value="commit coraz blizej konca" />
+    <MESSAGE value="kuba dopisz słabości" />
+    <MESSAGE value="Mr. Rewak Joined the Game." />
+    <MESSAGE value="Mr. Rewak Joined the Game. 2" />
+    <MESSAGE value="obi wan" />
+    <MESSAGE value="obi wan kenobi" />
+    <MESSAGE value="lekkie zmiany" />
+    <option name="LAST_COMMIT_MESSAGE" value="lekkie zmiany" />
+  </component>
+</project>
